@@ -52,7 +52,4 @@ var stringifyJSON = function(obj) {
   	return jsonString;
   }
 
-
 };
-
-console.log(stringifyJSON({}));
